@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New';
+    background-color: rgb(211, 219, 221);
+    padding: 2rem;
+  }
+  
+  h1 {
+    color: goldenrod;
+  }
+
+
+p { 
+    font-size: 2rem;
+    color: red;
+    line-height: 1.5;
+}
+
+
+
