@@ -1,0 +1,33 @@
+body {
+    font-family:   Geneva;
+    background-color: #fcfcfc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    background-color: mediumseagreen;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: seagreen;
+  }
